@@ -1,11 +1,13 @@
 Whack-a-Mole
 ============
 
-Find malware hidden in customer binaries by invoking Halo API to get hashes and pipe that to virustotal.  print a pretty report with recommended remediation.  
+Find malware hidden in customer binaries by invoking Halo API to get hashes and pipe that to virustotal.  Output a pretty report with recommended remediation.  
 
 The plan for this repo is to parse the JSON resulting from an API call to Halo.  This only field we care about is 'contents', which is the hash value we are going to send to virustotal.
 
 ###Integration Test files:
+A Centos 6.5 server is used for this test, hosted as a Vagrant box on my netbook.
+Share available on request.
 * **README.md**   The one you're reading now...
 * **test file:      fim_scan.txt**   The results from Halo when queried for fim_policies from a known baseline
 * **processed data: hashes.txt**  The hashes from the 'contents' field of the Halo File Integrity Management scan
@@ -19,5 +21,4 @@ The plan for this repo is to parse the JSON resulting from an API call to Halo. 
 
 >Make sure you correctly configure config.conf.  You can use -c to specify a different configuration file.  Otherwise, ./config.conf is assumed.  In config.conf: search_field will determine the metadata field that SEARCHPREFIX is applied to to create the list of servers that will be reported on.
 
-A Centos 6.5 server is used for this test, hosted as a Vagrant box on my netbook.
-Share available on request.
+
