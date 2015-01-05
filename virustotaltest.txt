@@ -1,0 +1,169 @@
+FD287794107630FA3116800E617466A9:
+                    AVG: Win32/Heur
+                 AVware: Trojan.Win32.Generic.pak!cobra
+               Ad-Aware: Backdoor.Generic.193904
+               AegisLab: Nothing detected
+                Agnitum: Backdoor.PoisonIvy!oQ0NZ/2om74
+              AhnLab-V3: Win-Trojan/Poisonivy.2105798
+              Antiy-AVL: Trojan/Win32.Genome
+                  Avast: Win32:PoisonIvy-CR [Trj]
+                  Avira: TR/Crypt.XPACK.Gen
+    Baidu-International: Backdoor.Win32.Poison.aK
+            BitDefender: Backdoor.Generic.193904
+                   Bkav: W32.Clodf5c.Trojan.364b
+               ByteHero: Nothing detected
+          CAT-QuickHeal: Backdoor.Poison.xc.n9
+                    CMC: Generic.Win32.fd28779410!MD
+                 ClamAV: Trojan.Small-2497
+                 Comodo: ApplicUnsaf.Win32.RemoteAdmin.PoisonIvy.230
+                  Cyren: W32/Backdoor.ATAA-6531
+                  DrWeb: BackDoor.Poison
+             ESET-NOD32: Win32/RemoteAdmin.PoisonIvy.230
+               Emsisoft: Backdoor.Generic.193904 (B)
+                 F-Prot: W32/Backdoor.AYAT
+               F-Secure: Backdoor.Generic.193904
+               Fortinet: W32/PoisonIvy.Q!tr.bdr
+                  GData: Backdoor.Generic.193904
+                 Ikarus: Trojan.Win32.Genome
+               Jiangmin: Backdoor/PoisonIvy.cp
+            K7AntiVirus: Trojan ( 7000000f1 )
+                   K7GW: Trojan ( 7000000f1 )
+              Kaspersky: Backdoor.Win32.Poison.aem
+               Kingsoft: Win32.Hack.Poison.(kcloud)
+           Malwarebytes: Nothing detected
+                 McAfee: Artemis!FD2877941076
+      McAfee-GW-Edition: Artemis
+       MicroWorld-eScan: Backdoor.Generic.193904
+              Microsoft: Backdoor:Win32/Poison.E
+         NANO-Antivirus: Trojan.Win32.PoisonI.ibci
+                 Norman: PoisonIvy.SCW
+                  Panda: Bck/PoisonIvy.V
+              Qihoo-360: Win32/Trojan.Hack.dee
+                 Rising: PE:Trojan.Win32.Generic.122C53FF!304894975
+       SUPERAntiSpyware: Nothing detected
+                 Sophos: Troj/PoisonI-C
+               Symantec: Trojan Horse
+                Tencent: Win32.Backdoor.Poison.Edxg
+              TheHacker: Backdoor/PoisonIvy.q
+           TotalDefense: Win32/PoisonIvy!generic
+             TrendMicro: Mal_DRPR-3
+   TrendMicro-HouseCall: Mal_DRPR-3
+                  VBA32: BackDoor.Poison
+                  VIPRE: Trojan.Win32.Generic.pak!cobra
+                ViRobot: Backdoor.Win32.Poisonlvy.2105798
+                 Zillya: Backdoor.Poison.Win32.59916
+                  Zoner: Nothing detected
+               nProtect: Backdoor/W32.PoisonIvy.2105798
+e83ec65d20d7d499b2f0dc87e37a66400c09d3b4f723e80f04a674984a8598e8:
+                      -: -
+87100a2c3cb50a38b66c9a62ac23e26de9d474b755ee7b7ae410d1767b00d99d:
+                    AVG: Nothing detected
+                 AVware: Nothing detected
+               Ad-Aware: Nothing detected
+               AegisLab: Nothing detected
+                Agnitum: Nothing detected
+              AhnLab-V3: Nothing detected
+                AntiVir: Nothing detected
+              Antiy-AVL: Nothing detected
+                  Avast: Nothing detected
+    Baidu-International: Nothing detected
+            BitDefender: Nothing detected
+                   Bkav: Nothing detected
+               ByteHero: Nothing detected
+          CAT-QuickHeal: Nothing detected
+                    CMC: Nothing detected
+                 ClamAV: Nothing detected
+              Commtouch: Nothing detected
+                 Comodo: Nothing detected
+                  DrWeb: Nothing detected
+             ESET-NOD32: Nothing detected
+               Emsisoft: Nothing detected
+                 F-Prot: Nothing detected
+               F-Secure: Nothing detected
+               Fortinet: Nothing detected
+                  GData: Nothing detected
+                 Ikarus: Nothing detected
+               Jiangmin: Nothing detected
+            K7AntiVirus: Nothing detected
+                   K7GW: Nothing detected
+              Kaspersky: Nothing detected
+               Kingsoft: Nothing detected
+           Malwarebytes: Nothing detected
+                 McAfee: Nothing detected
+      McAfee-GW-Edition: Nothing detected
+       MicroWorld-eScan: Nothing detected
+              Microsoft: Nothing detected
+         NANO-Antivirus: Nothing detected
+                 Norman: Nothing detected
+                  Panda: Nothing detected
+              Qihoo-360: Nothing detected
+                 Rising: Nothing detected
+       SUPERAntiSpyware: Nothing detected
+                 Sophos: Nothing detected
+               Symantec: Nothing detected
+              TheHacker: Nothing detected
+           TotalDefense: Nothing detected
+             TrendMicro: Nothing detected
+   TrendMicro-HouseCall: Nothing detected
+                  VBA32: Nothing detected
+                  VIPRE: Nothing detected
+                ViRobot: Nothing detected
+               nProtect: Nothing detected
+64a133a8e4fa5ae57e457eec59d42403f57718548e97dc05730d36c2997a7d2d:
+                      -: -
+FD287794107630FA3116800E617466A9:
+                    AVG: Win32/Heur
+                 AVware: Trojan.Win32.Generic.pak!cobra
+               Ad-Aware: Backdoor.Generic.193904
+               AegisLab: Nothing detected
+                Agnitum: Backdoor.PoisonIvy!oQ0NZ/2om74
+              AhnLab-V3: Win-Trojan/Poisonivy.2105798
+              Antiy-AVL: Trojan/Win32.Genome
+                  Avast: Win32:PoisonIvy-CR [Trj]
+                  Avira: TR/Crypt.XPACK.Gen
+    Baidu-International: Backdoor.Win32.Poison.aK
+            BitDefender: Backdoor.Generic.193904
+                   Bkav: W32.Clodf5c.Trojan.364b
+               ByteHero: Nothing detected
+          CAT-QuickHeal: Backdoor.Poison.xc.n9
+                    CMC: Generic.Win32.fd28779410!MD
+                 ClamAV: Trojan.Small-2497
+                 Comodo: ApplicUnsaf.Win32.RemoteAdmin.PoisonIvy.230
+                  Cyren: W32/Backdoor.ATAA-6531
+                  DrWeb: BackDoor.Poison
+             ESET-NOD32: Win32/RemoteAdmin.PoisonIvy.230
+               Emsisoft: Backdoor.Generic.193904 (B)
+                 F-Prot: W32/Backdoor.AYAT
+               F-Secure: Backdoor.Generic.193904
+               Fortinet: W32/PoisonIvy.Q!tr.bdr
+                  GData: Backdoor.Generic.193904
+                 Ikarus: Trojan.Win32.Genome
+               Jiangmin: Backdoor/PoisonIvy.cp
+            K7AntiVirus: Trojan ( 7000000f1 )
+                   K7GW: Trojan ( 7000000f1 )
+              Kaspersky: Backdoor.Win32.Poison.aem
+               Kingsoft: Win32.Hack.Poison.(kcloud)
+           Malwarebytes: Nothing detected
+                 McAfee: Artemis!FD2877941076
+      McAfee-GW-Edition: Artemis
+       MicroWorld-eScan: Backdoor.Generic.193904
+              Microsoft: Backdoor:Win32/Poison.E
+         NANO-Antivirus: Trojan.Win32.PoisonI.ibci
+                 Norman: PoisonIvy.SCW
+                  Panda: Bck/PoisonIvy.V
+              Qihoo-360: Win32/Trojan.Hack.dee
+                 Rising: PE:Trojan.Win32.Generic.122C53FF!304894975
+       SUPERAntiSpyware: Nothing detected
+                 Sophos: Troj/PoisonI-C
+               Symantec: Trojan Horse
+                Tencent: Win32.Backdoor.Poison.Edxg
+              TheHacker: Backdoor/PoisonIvy.q
+           TotalDefense: Win32/PoisonIvy!generic
+             TrendMicro: Mal_DRPR-3
+   TrendMicro-HouseCall: Mal_DRPR-3
+                  VBA32: BackDoor.Poison
+                  VIPRE: Trojan.Win32.Generic.pak!cobra
+                ViRobot: Backdoor.Win32.Poisonlvy.2105798
+                 Zillya: Backdoor.Poison.Win32.59916
+                  Zoner: Nothing detected
+               nProtect: Backdoor/W32.PoisonIvy.2105798
